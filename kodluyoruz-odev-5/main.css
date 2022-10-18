@@ -1,0 +1,55 @@
+ 
+* {
+    background-color: rgb(243, 243, 218);
+}
+
+
+.head-1{
+    text-align: center;
+    color: darkolivegreen;
+}
+
+.list-1 {
+    color: darkslategray;
+    padding: 100x;
+    width: 10px;
+    margin:100px;
+    list-style: none;
+}
+.list-1 li{
+    display: inline;
+
+}
+.list-1 li a{
+        color: rgb(144, 180, 180);
+        background-color: rgb(51, 69, 60);
+        text-align:right;
+}
+#div-1 {
+    display: inline-block;
+    margin: 100;
+    padding: 100;
+    text-align: center;
+    background-color: rgb(174, 183, 160);
+    width: 500px;
+}
+.img-1 {
+    
+    align-self: center;
+    margin: 100;
+    padding: 100px;
+    }
+.img-2 {
+    align-self: center;
+    margin: 100;
+    padding: 100px;
+}
+    #div-2
+{
+    display: inline-block;
+    margin: 100;
+    padding: 100;
+    text-align: center;
+    background-color: rgb(174, 183, 160);
+    width: 500px;
+}
